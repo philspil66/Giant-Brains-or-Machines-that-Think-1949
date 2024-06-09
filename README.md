@@ -1,1 +1,1 @@
-# Giant-Brains-or-Machines-that-Think-1949-
+# Giant Brains or Machines that Think (1949)
