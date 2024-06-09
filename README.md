@@ -61,12 +61,10 @@ Another innovative application discussed by Berkeley is the "Weather Brain," a c
 
 For those interested in exploring more about the topics covered in *Giant Brains or Machines that Think*, consider the following resources:
 
-- [The Mathematical Theory of Communication](https://www.worldcat.org/title/mathematical-theory-of-communication/oclc/802695778) by Claude Shannon
-- [Computing Machinery and Intelligence](https://www.worldcat.org/title/computing-machinery-and-intelligence/oclc/810915387) by Alan Turing
-- [The Human Use of Human Beings](https://www.worldcat.org/title/human-use-of-human-beings-cybernetics-and-society/oclc/904244) by Norbert Wiener
+
 
 Feel free to explore these works to gain a deeper understanding of the principles and applications of early computational machines.
 
 ---
 
-For more information, visit the [repository](#) on GitHub or contact the author at [email@example.com](mailto:email@example.com).
+
